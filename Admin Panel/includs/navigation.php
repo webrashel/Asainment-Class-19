@@ -6,7 +6,7 @@
 								<!-- Main -->
 								
 								<li class="active"><a href="#"><i class="icon-home4"></i> <span>Dashboard</span></a></li>
-								<li ><a href="banner.php"><i class="icon-images2"></i> <span>Banner</span></a></li>
+								<li ><a href="bannerList.php"><i class="icon-images2"></i> <span>Banner</span></a></li>
 								<li ><a href="#"><i class="icon-book"></i> <span>Services</span></a></li>
 								<li ><a href="#"><i class="icon-stack"></i> <span>Sections</span></a></li>
 								<li ><a href="#"><i class="icon-droplet"></i> <span>Our Project</span></a></li>
